@@ -19,10 +19,3 @@ Implementation of a Naive Bayes text classifier from scratch for SMS Spam Collec
 
 `Final_CS561_Naive_Bayes_Classifier.ipynb`
 
-## Course
-
-CS230/561
-
-## Date
-
-October 3, 2025
